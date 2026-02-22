@@ -1,4 +1,4 @@
-# Student API with Gin (Homework 4)
+# Student API with Gin
 
 ## How to Run
 1. Navigate to the `go-api-gin` folder.
